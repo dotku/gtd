@@ -18,5 +18,5 @@
 ## 技术研究
 - MySQL 数据库对比
 - 源码文件对比与管理
-- ...
--> 向 Senior Engineering 冲刺 :smile:
+- ...  
+-> 向 Senior Engineering 冲刺 :muscle:
